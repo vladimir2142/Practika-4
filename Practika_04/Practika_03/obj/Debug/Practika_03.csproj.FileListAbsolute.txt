@@ -1,0 +1,7 @@
+C:\Users\leged\source\repos\Practika_03\Practika_03\bin\Debug\Practika_03.exe.config
+C:\Users\leged\source\repos\Practika_03\Practika_03\bin\Debug\Practika_03.exe
+C:\Users\leged\source\repos\Practika_03\Practika_03\bin\Debug\Practika_03.pdb
+C:\Users\leged\source\repos\Practika_03\Practika_03\obj\Debug\Practika_03.csprojAssemblyReference.cache
+C:\Users\leged\source\repos\Practika_03\Practika_03\obj\Debug\Practika_03.csproj.CoreCompileInputs.cache
+C:\Users\leged\source\repos\Practika_03\Practika_03\obj\Debug\Practika_03.exe
+C:\Users\leged\source\repos\Practika_03\Practika_03\obj\Debug\Practika_03.pdb
